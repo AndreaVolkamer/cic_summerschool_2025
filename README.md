@@ -22,20 +22,16 @@ Date: 2025-09-29, 8:30 - 14:30
 
 | Time      | Topic                           | Presenter                   |
 | ----------| ------------------------------- | --------------------------- |
-| 8:30-x:xx | Lecture: xx    | Andrea Volkamer                 |
-| x:xx-x:xx | Hands-on: xx   | Katharina Buchthal        |
+| 8:30-x:xx | Lecture: xxx    | Andrea Volkamer                 |
+| x:xx-x:xx | Hands-on: [xxx][1]   | Katharina Buchthal        |
 | x:xx-x:xx | Lecture: xxx            | Andrea Volkamer             |
-| x:xx-x:xx | Hands-on: xxx | Raquel López-Ríos de Castro |
+| x:xx-x:xx | Hands-on: [xxx][2] | Katharina Buchthal |
 | x:xx-x:xx | Lecture: xxx         | Andrea Volkamer                |
-| x:xx-14:30 | Hands-on: xxx   | Pat Walters                 |
+| x:xx-14:30 | Hands-on: [xxx][3]   | Katharina Buchthal                |
 
-<!-- TODO: Update colab links -->
-
-<!--
-[1]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop/blob/main/Session_1/Session_1.ipynb
-[2]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop/blob/main/Session_2/AI_in_chemistry_workshop_session_2.ipynb
-[3]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop/blob/main/Session_3/SMILES_RNN.ipynb
-[4]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop/blob/main/Session_3/active_regression.ipynb -->
+[1]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_1/session_1.ipynb
+[2]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_2/session_2.ipynb
+[3]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_3/session_3.ipynb
 
 ## How to start using this material
 
